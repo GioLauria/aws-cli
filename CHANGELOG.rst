@@ -2,6 +2,26 @@
 CHANGELOG
 =========
 
+1.18.209
+========
+
+* api-change:``ce``: Update ce command to latest version
+* api-change:``application-autoscaling``: Update application-autoscaling command to latest version
+
+
+1.18.208
+========
+
+* api-change:``healthlake``: Update healthlake command to latest version
+* api-change:``cloudsearch``: Update cloudsearch command to latest version
+
+
+1.18.207
+========
+
+* api-change:``servicecatalog``: Update servicecatalog command to latest version
+
+
 1.18.206
 ========
 

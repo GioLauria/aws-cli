@@ -2,6 +2,29 @@
 CHANGELOG
 =========
 
+1.18.212
+========
+
+* api-change:``rds``: Update rds command to latest version
+* api-change:``kms``: Update kms command to latest version
+
+
+1.18.211
+========
+
+* api-change:``devops-guru``: Update devops-guru command to latest version
+* api-change:``codepipeline``: Update codepipeline command to latest version
+* api-change:``mediaconvert``: Update mediaconvert command to latest version
+
+
+1.18.210
+========
+
+* api-change:``transfer``: Update transfer command to latest version
+* api-change:``autoscaling``: Update autoscaling command to latest version
+* api-change:``autoscaling-plans``: Update autoscaling-plans command to latest version
+
+
 1.18.209
 ========
 

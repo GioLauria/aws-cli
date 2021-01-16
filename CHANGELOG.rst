@@ -2,6 +2,38 @@
 CHANGELOG
 =========
 
+1.18.216
+========
+
+* api-change:``sns``: Update sns command to latest version
+
+
+1.18.215
+========
+
+* api-change:``cognito-identity``: Update cognito-identity command to latest version
+* api-change:``pinpoint``: Update pinpoint command to latest version
+* api-change:``sagemaker``: Update sagemaker command to latest version
+* api-change:``s3control``: Update s3control command to latest version
+
+
+1.18.214
+========
+
+* api-change:``frauddetector``: Update frauddetector command to latest version
+* api-change:``personalize``: Update personalize command to latest version
+
+
+1.18.213
+========
+
+* api-change:``elasticache``: Update elasticache command to latest version
+* api-change:``lightsail``: Update lightsail command to latest version
+* api-change:``auditmanager``: Update auditmanager command to latest version
+* api-change:``appstream``: Update appstream command to latest version
+* api-change:``ssm``: Update ssm command to latest version
+
+
 1.18.212
 ========
 
